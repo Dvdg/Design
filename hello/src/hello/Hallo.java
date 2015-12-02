@@ -3,10 +3,10 @@ package hello;
 public class Hallo {
 	
 	public static void main(String[] args){
-		System.out.println("Doei!");
+		System.out.println("Hallo wereld1 thijs breekt in :D !");
 	}
 	
-	public int min(int x, int y){
-		return x - y;
+	public int som(int x, int y){
+		return x + y;
 	}
 }
