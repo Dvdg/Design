@@ -6,8 +6,8 @@ public class Hallo {
 		System.out.println("Hallo wereld1 thijs breekt in :D !");
 	}
 	
-	public int min(int x, int y){
-		return x - y;
+	public int som(int x, int y){
+		return x + y;
 	}
 
 }
