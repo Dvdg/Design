@@ -10,4 +10,8 @@ public class Hallo {
 	public int som(int x, int y){
 		return x + y;
 	}
+	
+	public int arend(int l){
+		return 3;
+	}
 }
