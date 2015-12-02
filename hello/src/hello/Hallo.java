@@ -9,5 +9,4 @@ public class Hallo {
 	public int min(int x, int y){
 		return x - y;
 	}
-
 }
